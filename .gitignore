@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+# Intellij idea
+.idea
+*iml
+
+# VSCode
+.vscode/*
+
